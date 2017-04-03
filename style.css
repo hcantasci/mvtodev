@@ -1,0 +1,145 @@
+* {
+ margin: 0;
+ padding: 0;
+}
+
+.container{
+	width:960px;
+	margin:0 auto;
+	
+}
+
+header{
+	width:960px;
+	height:65px;
+	background-color:#e5e5e5;	
+}
+header p{
+    float:left;
+    font-family: "Open Sans";
+	font-size: 32px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+header img{
+    width:40px;
+    height:40px;
+    float:right;
+    margin-top:10px;
+}
+header label{
+    float:right;
+    padding-top:20px;
+    font-family: "Open Sans";
+    font-size: 16px;
+    padding-left:13px;
+}
+header hr{
+    transform: rotate(90deg);
+    float:right;
+	}
+.headeralt{
+    margin:10px;
+    margin-left:95px;
+    background-color: #d3beb4;
+    width:765px;
+    height:27px;
+    border-radius: 5px;
+}
+#headeraltyazi{
+    font-family: "Open Sans";
+    font-size: 18px;
+    padding-left: 200px;
+    margin:auto;
+}
+
+.ortaust {
+    width: 960px;
+    height: 270px;
+    background-image: url(../images/keyarka.png);
+    
+
+
+}
+#ortaust1 {
+    width: 640px;
+    height: 180px;
+    background-color: #d7d9d7;
+    margin-left:160px;
+    margin-top:45px;
+    position:fixed;
+    border-radius: 12px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #dac8b4;
+
+}
+#ortaust2 {
+    width: 540px;
+    height: 55px;
+    background-color:azure;
+    margin-left:50px;
+    margin-top:55px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #dac8b4;
+
+}
+#adrestxt {
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-style: normal;
+	font-variant: normal;
+    padding-top: 18px;
+    padding-left: 20px;
+    float:left;
+}
+#araicon{
+    float:right;
+    padding-right:10px;
+    padding-top:5px;
+}
+.ortaa{
+    background-color:white;
+    width: 960px;
+    height: 260px;
+}
+.ortaalt{
+    width:960px;
+    height:246px;
+    background-color:#e5e5e5;
+}
+#ortaaltkutu {
+    width:314px;
+    height:220px;
+    float:left;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #dac8b4;
+    padding-top:20px;
+}
+#ortaaltkutu p {
+    font-family: "Open Sans";
+}
+
+footer {
+    width: 960px;
+    height: 170px;
+    background-color: #e5e5e5;
+    margin-top:15px;
+    margin-bottom:20px;
+}
+.footersec{
+    float:left;
+    height:170px;
+    width:400px;
+    padding-top:20px;
+    padding-right:20px;
+}
+footer li a {
+    color: black;
+    text-decoration: none;
+    }
